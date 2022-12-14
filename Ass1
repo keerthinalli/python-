@@ -1,0 +1,7 @@
+ap=[]
+ap.append('vskp')
+ap.append('kakinada')
+ap.append('vzm')
+ap.insert(2,'godavari')
+ap.sort()
+print(ap)
